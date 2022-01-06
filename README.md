@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and find my first job as a developer
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on any proyect (frontend)
-- 📫 How to reach me (nicolas-11129@gmail.com)
+- 📫 How to reach me (nicolas-11129@hotmail.com)
 
 <!---
 Nicolas1016/Nicolas1016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolas1016
-- 👀 I’m interested in learn  y  trabahar  como desarrollador 
+- 👀 I’m interested in learn  y  trabaJar  como desarrollador 
 - 🌱 I’m currentl especializandome en React  
 - 💞️ I’m looking to collaborate on any proyect (frontend)
 - 📫 How to reach me (nicolas-11129@hotmail.com)
